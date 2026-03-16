@@ -18,4 +18,8 @@ git add болон git commit ашиглах
 
 GitHub дээрх шинэ өөрчлөлтийг git pull ашиглан татах
 ---
+### Хэрэглэгч прогармм хангамж 
+- Git
+- Git bash 
+- GitHub account 
 

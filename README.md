@@ -23,3 +23,6 @@ GitHub дээрх шинэ өөрчлөлтийг git pull ашиглан тат
 - Git bash 
 - GitHub account 
 
+## Branch дээр хийсэн өөрчлөлт 
+өөрчлөлт 
+

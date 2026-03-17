@@ -30,3 +30,9 @@ GitHub дээрх шинэ өөрчлөлтийг git pull ашиглан тат
 ner : munkhjin
 angi : PHI 2
 mergejil : pro hangamjiin engineer
+
+
+## Миний мэдээлэл 
+Нэр Нандин
+анги Пхи 2
+мэргэжил Төрөл бүрийн

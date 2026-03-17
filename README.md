@@ -26,3 +26,7 @@ GitHub дээрх шинэ өөрчлөлтийг git pull ашиглан тат
 ## Branch дээр хийсэн өөрчлөлт 
 өөрчлөлт 
 
+## Minii medeelel
+ner : munkhjin
+angi : PHI 2
+mergejil : pro hangamjiin engineer
